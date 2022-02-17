@@ -1,2 +1,2 @@
 # Calculator-
-Lyriclious major project to build Calculator using Tkinter
+[Lyriclious](https://lyriclious.com/) major project to build Calculator using Tkinter
